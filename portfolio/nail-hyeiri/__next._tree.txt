@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0nj4_x3owagj3.css","style"]
+:HL["/_next/static/chunks/0yihh8rbt-5bu.css","style"]
 :HL["/_next/static/media/Inter-s.p.0ht-wmbt0n6kh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/NotoSerifKR_Regular_subset-s.p.42xym8ngl_42k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/PretendardVariable_subset-s.p.1jc89ztf2-6-e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"nail-hyeiri","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"portfolio","h":131168,"c":"$Q2"}]]
-0:{"b":"HktfWtXJaIoJXLV8IjFpt","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"TP0SXbqt0SW0J3yvA8EIR","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
