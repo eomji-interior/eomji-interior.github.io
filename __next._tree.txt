@@ -3,4 +3,4 @@
 :HL["/_next/static/media/NotoSerifKR_Regular_subset-s.p.42xym8ngl_42k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/PretendardVariable_subset-s.p.1jc89ztf2-6-e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"hfAU90xYZj8NLgneNYhNk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"J8fUWohvu9EjTKfaZLolf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
